@@ -14,7 +14,7 @@
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  Backend Engineer who turns caffeine into APIs
+  AI Engineer · Building Intelligent Systems with LLMs & RAG
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
@@ -53,23 +53,24 @@
   <br/>
 
   - 🇵🇰 Based in **Lahore, Pakistan**
-  - 💼 **3+ years** building backends that handle production traffic
-  - ⚡ I specialize in **Django, FastAPI, and AWS**
-  - 🌱 Currently diving deeper into **Go & Kubernetes**
+  - 🧠 **AI Engineer** building LLM-powered applications & RAG systems
+  - 💼 **3+ years** shipping production-grade intelligent systems
+  - ⚡ I specialize in **LLMs, RAG pipelines, vector databases & scalable APIs**
+  - 🔭 Currently working with **pgvector, Qdrant & multi-tenant AI architectures**
   - 📨 Reach me at **zainulabideen78@outlook.com**
-  - 🟢 **Open to work** — let's build something together!
+  - 🟢 **Open to work** — let's build something intelligent together!
 
   <br/>
 
   ```python
-  # My approach to every project
+  # My approach to every AI project
   while not production_ready:
-      write_code()
-      write_tests()  # yes, before you ask
-      refactor()
-      optimize_queries()
+      design_architecture()
+      build_rag_pipeline()
+      optimize_embeddings()
+      write_tests()  # yes, even for AI
       containerize()
-      deploy()
+      deploy_and_monitor()
   ```
 
   <br clear="right"/>
@@ -82,6 +83,26 @@
 
 <details open>
   <summary><h2>🧰 &nbsp;My Arsenal</h2></summary>
+
+  <h3>🤖 &nbsp;AI / ML & LLM Stack</h3>
+
+  <p>
+    <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat-square&logo=openai&logoColor=white"></a>
+    <a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?style=flat-square&logo=langchain&logoColor=white"></a>
+    <a href="#"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-6F42C1.svg?style=flat-square&logo=llama&logoColor=white"></a>
+    <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging_Face-FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black"></a>
+    <a href="#"><img alt="RAG" src="https://img.shields.io/badge/RAG_Pipelines-FF6F00.svg?style=flat-square&logo=databricks&logoColor=white"></a>
+    <a href="#"><img alt="Whisper" src="https://img.shields.io/badge/Whisper-74aa9c.svg?style=flat-square&logo=openai&logoColor=white"></a>
+  </p>
+
+  <h3>🗃️ &nbsp;Vector Databases & Embeddings</h3>
+
+  <p>
+    <a href="#"><img alt="pgvector" src="https://img.shields.io/badge/pgvector-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC382D.svg?style=flat-square&logo=qdrant&logoColor=white"></a>
+    <a href="#"><img alt="Pinecone" src="https://img.shields.io/badge/Pinecone-000000.svg?style=flat-square&logo=pinecone&logoColor=white"></a>
+    <a href="#"><img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FFB000.svg?style=flat-square&logo=chroma&logoColor=black"></a>
+  </p>
 
   <h3>⌨️ &nbsp;Languages I Speak <sub>(to machines)</sub></h3>
 
@@ -155,25 +176,25 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">🌞 Day Job</h3>
+        <h3 align="center">🤖 AI & Intelligent Systems</h3>
+        <br/>
+        <p align="center">
+          <img src="https://img.shields.io/badge/-%E2%86%92_RAG_Pipelines_%26_Knowledge_Systems-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_LLM_Integration_%26_Prompt_Engineering-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_Multi--tenant_AI_Architectures-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_Vector_Search_(pgvector,_Qdrant)-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_Audio_Transcription_(Whisper)-0D1117?style=flat-square" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">⚙️ Backend & Infrastructure</h3>
         <br/>
         <p align="center">
           <img src="https://img.shields.io/badge/-%E2%86%92_RESTful_%26_GraphQL_APIs-0D1117?style=flat-square" /><br/>
           <img src="https://img.shields.io/badge/-%E2%86%92_Microservice_Architectures-0D1117?style=flat-square" /><br/>
           <img src="https://img.shields.io/badge/-%E2%86%92_Async_Pipelines_(Celery+Redis+SQS)-0D1117?style=flat-square" /><br/>
           <img src="https://img.shields.io/badge/-%E2%86%92_Auth_Systems_(JWT,_OAuth2,_SSO)-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_Database_Design_%26_Optimization-0D1117?style=flat-square" />
-        </p>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🌙 Night Shifts</h3>
-        <br/>
-        <p align="center">
-          <img src="https://img.shields.io/badge/-%E2%86%92_Dockerizing_Everything-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_CI%2FCD_Pipelines-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_AWS_Infrastructure_as_Code-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_Performance_Profiling-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_Writing_Docs_For_Future_Me-0D1117?style=flat-square" />
+          <img src="https://img.shields.io/badge/-%E2%86%92_CI%2FCD_%26_Docker_Deployments-0D1117?style=flat-square" />
         </p>
       </td>
     </tr>
@@ -345,5 +366,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&width=480&lines=Thanks+for+visiting!+%F0%9F%91%8B+Let's+build+something+epic+together." alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&width=480&lines=Thanks+for+visiting!+%F0%9F%91%8B+Let's+build+something+intelligent+together." alt="Footer" />
 </p>
