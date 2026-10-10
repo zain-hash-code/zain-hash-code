@@ -8,13 +8,13 @@
 
 <h1 align="center">
   <a href="https://github.com/zain-hash-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=1000&color=0CDA62&center=true&vCenter=true&random=false&width=550&height=50&lines=%24+whoami;Zain+Ul+Abideen" alt="Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1200&color=0CDA62&center=true&vCenter=true&random=false&width=650&height=50&lines=%24+whoami;Zain+Ul+Abideen;AI+Engineer+%26+Software+Engineer;Building+RAG+Systems+%26+LLM+Pipelines;pgvector+%26+Qdrant+Multi-Tenant+Systems" alt="Typing" />
   </a>
 </h1>
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  AI Engineer · Building Intelligent Systems with LLMs & RAG
+  AI Engineer & Software Engineer · Building Scalable LLM & RAG Systems
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
@@ -53,27 +53,51 @@
   <br/>
 
   - 🇵🇰 Based in **Lahore, Pakistan**
-  - 🧠 **AI Engineer** building LLM-powered applications & RAG systems
-  - 💼 **3+ years** shipping production-grade intelligent systems
-  - ⚡ I specialize in **LLMs, RAG pipelines, vector databases & scalable APIs**
-  - 🔭 Currently working with **pgvector, Qdrant & multi-tenant AI architectures**
-  - 📨 Reach me at **zainulabideen78@outlook.com**
-  - 🟢 **Open to work** — let's build something intelligent together!
+  - 🧠 **AI Engineer & Software Engineer** building production LLM apps & RAG architectures
+  - 💼 **3+ years** shipping robust, scalable, high-throughput software systems
+  - ⚡ Core focus on **LLM workflows, RAG pipelines, pgvector, Qdrant & multi-tenant setups**
+  - 🏗️ Strong foundation in **Python, Django, FastAPI, PostgreSQL, Docker & AWS**
+  - 📨 Reach me directly at **zainulabideen78@outlook.com**
+  - 🟢 **Open to work** — let's build something intelligent and impactful!
 
   <br/>
 
   ```python
-  # My approach to every AI project
-  while not production_ready:
-      design_architecture()
-      build_rag_pipeline()
-      optimize_embeddings()
-      write_tests()  # yes, even for AI
-      containerize()
-      deploy_and_monitor()
+  # Production RAG & Vector Search Pipeline
+  async def query_intelligence(query: str, tenant_id: str) -> Response:
+      embeddings = await embed_model.aembed(query)
+      context = await qdrant.search(
+          collection="tenant_knowledge",
+          query_vector=embeddings,
+          query_filter={"tenant_id": tenant_id},
+          limit=5
+      )
+      return await llm.agenerate(query=query, context=context)
   ```
 
   <br clear="right"/>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ════════════════════════════ FEATURED PROJECTS ═════════════════════ -->
+
+<details open>
+  <summary><h2>🚀 &nbsp;Featured Projects</h2></summary>
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/zain-hash-code/whisper-audio-transcript">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=zain-hash-code&repo=whisper-audio-transcript&theme=react&bg_color=0D1117&title_color=0CDA62&icon_color=FF6E40&text_color=C9D1D9&hide_border=true" alt="whisper-audio-transcript" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/zain-hash-code?tab=repositories">
+      <img src="https://img.shields.io/badge/-Explore_All_Repositories-1a1b27?style=for-the-badge&logo=github&logoColor=white&color=0CDA62" alt="All Repos"/>
+    </a>
+  </p>
 
 </details>
 
@@ -104,7 +128,7 @@
     <a href="#"><img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FFB000.svg?style=flat-square&logo=chroma&logoColor=black"></a>
   </p>
 
-  <h3>⌨️ &nbsp;Languages I Speak <sub>(to machines)</sub></h3>
+  <h3>⌨️ &nbsp;Languages</h3>
 
   <p>
     <a href="https://github.com/search?q=user%3Azain-hash-code+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat-square&logo=python&logoColor=white"></a>
@@ -117,19 +141,19 @@
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
   </p>
 
-  <h3>🔩 &nbsp;Frameworks & The Heavy Machinery</h3>
+  <h3>🔩 &nbsp;Frameworks & APIs</h3>
 
   <p>
+    <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white"></a>
     <a href="#"><img alt="DRF" src="https://img.shields.io/badge/Django_REST-A30000.svg?style=flat-square&logo=django&logoColor=white"></a>
-    <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat-square&logo=fastapi&logoColor=white"></a>
     <a href="#"><img alt="Celery" src="https://img.shields.io/badge/Celery-37814A.svg?style=flat-square&logo=celery&logoColor=white"></a>
     <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?style=flat-square&logo=nginx&logoColor=white"></a>
     <a href="#"><img alt="Gunicorn" src="https://img.shields.io/badge/Gunicorn-499848.svg?style=flat-square&logo=gunicorn&logoColor=white"></a>
     <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=flat-square&logo=pytest&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ &nbsp;Databases & Data Stores</h3>
+  <h3>🗄️ &nbsp;Databases & Caching</h3>
 
   <p>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white"></a>
@@ -179,22 +203,22 @@
         <h3 align="center">🤖 AI & Intelligent Systems</h3>
         <br/>
         <p align="center">
-          <img src="https://img.shields.io/badge/-%E2%86%92_RAG_Pipelines_%26_Knowledge_Systems-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_LLM_Integration_%26_Prompt_Engineering-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_Multi--tenant_AI_Architectures-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_RAG_Pipelines_%26_Knowledge_Bases-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_Multi--Tenant_Vector_Architectures-0D1117?style=flat-square" /><br/>
           <img src="https://img.shields.io/badge/-%E2%86%92_Vector_Search_(pgvector,_Qdrant)-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_Audio_Transcription_(Whisper)-0D1117?style=flat-square" />
+          <img src="https://img.shields.io/badge/-%E2%86%92_LLM_Orchestration_%26_Tool_Calling-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_Audio_Transcription_(OpenAI_Whisper)-0D1117?style=flat-square" />
         </p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">⚙️ Backend & Infrastructure</h3>
+        <h3 align="center">⚙️ Core Software & Cloud</h3>
         <br/>
         <p align="center">
-          <img src="https://img.shields.io/badge/-%E2%86%92_RESTful_%26_GraphQL_APIs-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_High--Throughput_RESTful_APIs-0D1117?style=flat-square" /><br/>
           <img src="https://img.shields.io/badge/-%E2%86%92_Microservice_Architectures-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_Async_Pipelines_(Celery+Redis+SQS)-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_Auth_Systems_(JWT,_OAuth2,_SSO)-0D1117?style=flat-square" /><br/>
-          <img src="https://img.shields.io/badge/-%E2%86%92_CI%2FCD_%26_Docker_Deployments-0D1117?style=flat-square" />
+          <img src="https://img.shields.io/badge/-%E2%86%92_Async_Worker_Queues_(Celery+Redis)-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_Secure_Auth_(JWT,_OAuth2,_SSO)-0D1117?style=flat-square" /><br/>
+          <img src="https://img.shields.io/badge/-%E2%86%92_Cloud_Deployments_on_AWS-0D1117?style=flat-square" />
         </p>
       </td>
     </tr>
@@ -271,12 +295,12 @@
         <td align="center" width="140">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="52" alt="Go"/>
           <br/><b>Go</b>
-          <br/><sub>🟡 learning</sub>
+          <br/><sub>🟡 exploring</sub>
         </td>
         <td align="center" width="140">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="52" alt="Kubernetes"/>
           <br/><b>Kubernetes</b>
-          <br/><sub>🟡 exploring</sub>
+          <br/><sub>🟡 scaling</sub>
         </td>
         <td align="center" width="140">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="52" alt="Terraform"/>
@@ -315,10 +339,11 @@
   │                                               — Kent Beck       │
   │                                                                 │
   │   → Ship early, iterate often                                   │
+  │   → Vector search without good chunking is just noisy math      │
   │   → An untested API is a broken API you haven't found yet       │
   │   → If the deploy process scares you, automate it               │
   │   → Good architecture > clever code                             │
-  │   → Logs and monitoring are not optional                        │
+  │   → Logs, metrics and evaluations are not optional              │
   │                                                                 │
   └─────────────────────────────────────────────────────────────────┘
   ```
