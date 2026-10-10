@@ -125,7 +125,7 @@ async def query_intelligence(query: str, tenant_id: str) -> Response:
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=zain-hash-code&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy-orcin-eta.vercel.app/?username=zain-hash-code&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -135,7 +135,7 @@ async def query_intelligence(query: str, tenant_id: str) -> Response:
 
 <div align="center">
 
-[![Zain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zain-hash-code&theme=dark&hide_border=true&background=0D1117&ring=0CDA62&fire=FF6E40&currStreakLabel=0CDA62&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0CDA6233)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Zain's Streak](https://streak-stats.demolab.com/?user=zain-hash-code&theme=dark&hide_border=true&background=0D1117&ring=0CDA62&fire=FF6E40&currStreakLabel=0CDA62&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0CDA6233)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br/>
 
@@ -144,7 +144,7 @@ async def query_intelligence(query: str, tenant_id: str) -> Response:
 
 <br/>
 
-[![Zain's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=zain-hash-code&bg_color=0D1117&color=0CDA62&line=FF6E40&point=FFFFFF&area=true&area_color=0CDA6244&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Zain's Activity Graph](https://github-readme-activity-graph-two.vercel.app/graph?username=zain-hash-code&bg_color=0D1117&color=0CDA62&line=FF6E40&point=FFFFFF&area=true&area_color=0CDA6244&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
